@@ -38,7 +38,7 @@ For other agents, replace the target path:
 | Cursor | `~/.cursor/skills/` |
 | Windsurf | `~/.codeium/windsurf/skills/` |
 | Cline / Codex | `~/.agents/skills/` |
-```
+
 
 ## Skills
 
